@@ -1,0 +1,1364 @@
+{
+  "core": {
+    "color": {
+      "ugent-blue": {
+        "100": {
+          "$value": "#ebf3ff",
+          "$type": "color"
+        },
+        "200": {
+          "$value": "#bedbff",
+          "$type": "color"
+        },
+        "300": {
+          "$value": "#93c2ff",
+          "$type": "color"
+        },
+        "400": {
+          "$value": "#6eacff",
+          "$type": "color"
+        },
+        "500": {
+          "$value": "#519afe",
+          "$type": "color"
+        },
+        "600": {
+          "$value": "#3b8af8",
+          "$type": "color"
+        },
+        "700": {
+          "$value": "#2b7beb",
+          "$type": "color"
+        },
+        "800": {
+          "$value": "#1e64c8",
+          "$type": "color"
+        },
+        "900": {
+          "$value": "#083879",
+          "$type": "color"
+        },
+        "1000": {
+          "$value": "#001633",
+          "$type": "color"
+        }
+      },
+      "ugent-yellow": {
+        "100": {
+          "$value": "#fffceb",
+          "$type": "color"
+        },
+        "200": {
+          "$value": "#fff099",
+          "$type": "color"
+        },
+        "300": {
+          "$value": "#ffe249",
+          "$type": "color"
+        },
+        "400": {
+          "$value": "#ffd200",
+          "$type": "color"
+        },
+        "500": {
+          "$value": "#ddb800",
+          "$type": "color"
+        },
+        "600": {
+          "$value": "#bb9d00",
+          "$type": "color"
+        },
+        "700": {
+          "$value": "#998100",
+          "$type": "color"
+        },
+        "800": {
+          "$value": "#776500",
+          "$type": "color"
+        },
+        "900": {
+          "$value": "#554900",
+          "$type": "color"
+        },
+        "1000": {
+          "$value": "#332c00",
+          "$type": "color"
+        }
+      },
+      "mint": {
+        "100": {
+          "$value": "#ebfffb",
+          "$type": "color"
+        },
+        "200": {
+          "$value": "#8debd7",
+          "$type": "color"
+        },
+        "300": {
+          "$value": "#3ed8b7",
+          "$type": "color"
+        },
+        "400": {
+          "$value": "#00c49a",
+          "$type": "color"
+        },
+        "500": {
+          "$value": "#00ac87",
+          "$type": "color"
+        },
+        "600": {
+          "$value": "#009474",
+          "$type": "color"
+        },
+        "700": {
+          "$value": "#007c61",
+          "$type": "color"
+        },
+        "800": {
+          "$value": "#00634e",
+          "$type": "color"
+        },
+        "900": {
+          "$value": "#004b3b",
+          "$type": "color"
+        },
+        "1000": {
+          "$value": "#003328",
+          "$type": "color"
+        }
+      },
+      "tomato": {
+        "100": {
+          "$value": "#fff1eb",
+          "$type": "color"
+        },
+        "200": {
+          "$value": "#feccbb",
+          "$type": "color"
+        },
+        "300": {
+          "$value": "#fea28e",
+          "$type": "color"
+        },
+        "400": {
+          "$value": "#fd7967",
+          "$type": "color"
+        },
+        "500": {
+          "$value": "#fc5249",
+          "$type": "color"
+        },
+        "600": {
+          "$value": "#d43a28",
+          "$type": "color"
+        },
+        "700": {
+          "$value": "#ac2b14",
+          "$type": "color"
+        },
+        "800": {
+          "$value": "#832208",
+          "$type": "color"
+        },
+        "900": {
+          "$value": "#5b1a02",
+          "$type": "color"
+        },
+        "1000": {
+          "$value": "#331000",
+          "$type": "color"
+        }
+      },
+      "electric-blue": {
+        "100": {
+          "$value": "#ebfdff",
+          "$type": "color"
+        },
+        "200": {
+          "$value": "#74f2fe",
+          "$type": "color"
+        },
+        "300": {
+          "$value": "#00e8fc",
+          "$type": "color"
+        },
+        "400": {
+          "$value": "#00cddf",
+          "$type": "color"
+        },
+        "500": {
+          "$value": "#00b3c3",
+          "$type": "color"
+        },
+        "600": {
+          "$value": "#0098a6",
+          "$type": "color"
+        },
+        "700": {
+          "$value": "#007e89",
+          "$type": "color"
+        },
+        "800": {
+          "$value": "#00646c",
+          "$type": "color"
+        },
+        "900": {
+          "$value": "#004950",
+          "$type": "color"
+        },
+        "1000": {
+          "$value": "#002f33",
+          "$type": "color"
+        }
+      },
+      "neutral": {
+        "0": {
+          "$value": "#ffffff",
+          "$type": "color"
+        },
+        "100": {
+          "$value": "#f4f5f5",
+          "$type": "color"
+        },
+        "200": {
+          "$value": "#eaebec",
+          "$type": "color"
+        },
+        "300": {
+          "$value": "#d3d6dc",
+          "$type": "color"
+        },
+        "400": {
+          "$value": "#a9b1bf",
+          "$type": "color"
+        },
+        "500": {
+          "$value": "#8590a2",
+          "$type": "color"
+        },
+        "600": {
+          "$value": "#66748b",
+          "$type": "color"
+        },
+        "700": {
+          "$value": "#4d5c75",
+          "$type": "color"
+        },
+        "800": {
+          "$value": "#39475e",
+          "$type": "color"
+        },
+        "900": {
+          "$value": "#283447",
+          "$type": "color"
+        },
+        "1000": {
+          "$value": "#192230",
+          "$type": "color"
+        },
+        "1100": {
+          "$value": "#192230",
+          "$type": "color"
+        },
+        "alpha": {
+          "100": {
+            "$value": "#4D5C7510",
+            "$type": "color"
+          },
+          "300": {
+            "$value": "#4D5C7530",
+            "$type": "color"
+          },
+          "500": {
+            "$value": "#4D5C7550",
+            "$type": "color"
+          },
+          "700": {
+            "$value": "#4D5C7570",
+            "$type": "color"
+          },
+          "900": {
+            "$value": "#4D5C7590",
+            "$type": "color"
+          }
+        },
+        "dark": {
+          "0": {
+            "$value": "#030405",
+            "$type": "color"
+          },
+          "100": {
+            "$value": "#131a20",
+            "$type": "color"
+          },
+          "200": {
+            "$value": "#1d262e",
+            "$type": "color"
+          },
+          "300": {
+            "$value": "#28333c",
+            "$type": "color"
+          },
+          "400": {
+            "$value": "#333f4a",
+            "$type": "color"
+          },
+          "500": {
+            "$value": "#3f4c58",
+            "$type": "color"
+          },
+          "600": {
+            "$value": "#596773",
+            "$type": "color"
+          },
+          "700": {
+            "$value": "#78848e",
+            "$type": "color"
+          },
+          "800": {
+            "$value": "#98a1a9",
+            "$type": "color"
+          },
+          "900": {
+            "$value": "#b8bec4",
+            "$type": "color"
+          },
+          "1000": {
+            "$value": "#d9dcdf",
+            "$type": "color"
+          },
+          "1100": {
+            "$value": "#fafafa",
+            "$type": "color"
+          },
+          "alpha": {
+            "100": {
+              "$value": "#03040580",
+              "$type": "color"
+            },
+            "300": {
+              "$value": "#03040570",
+              "$type": "color"
+            },
+            "500": {
+              "$value": "#03040550",
+              "$type": "color"
+            },
+            "700": {
+              "$value": "#03040530",
+              "$type": "color"
+            },
+            "900": {
+              "$value": "#03040520",
+              "$type": "color"
+            }
+          }
+        }
+      }
+    },
+    "space": {
+      "0": {
+        "$value": "0px",
+        "$type": "dimension"
+      },
+      "100": {
+        "$value": "8px",
+        "$type": "dimension"
+      },
+      "150": {
+        "$value": "12px",
+        "$type": "dimension"
+      },
+      "200": {
+        "$value": "16px",
+        "$type": "dimension"
+      },
+      "250": {
+        "$value": "20px",
+        "$type": "dimension"
+      },
+      "300": {
+        "$value": "24px",
+        "$type": "dimension"
+      },
+      "400": {
+        "$value": "32px",
+        "$type": "dimension"
+      },
+      "500": {
+        "$value": "40px",
+        "$type": "dimension"
+      },
+      "600": {
+        "$value": "28px",
+        "$type": "dimension"
+      },
+      "800": {
+        "$value": "64px",
+        "$type": "dimension"
+      },
+      "1000": {
+        "$value": "80px",
+        "$type": "dimension"
+      },
+      "025": {
+        "$value": "2px",
+        "$type": "dimension"
+      },
+      "050": {
+        "$value": "4px",
+        "$type": "dimension"
+      },
+      "075": {
+        "$value": "6px",
+        "$type": "dimension"
+      },
+      "negative": {
+        "100": {
+          "$value": "-8px",
+          "$type": "dimension"
+        },
+        "150": {
+          "$value": "-12px",
+          "$type": "dimension"
+        },
+        "200": {
+          "$value": "-16px",
+          "$type": "dimension"
+        },
+        "250": {
+          "$value": "-20px",
+          "$type": "dimension"
+        },
+        "300": {
+          "$value": "-24px",
+          "$type": "dimension"
+        },
+        "400": {
+          "$value": "-32px",
+          "$type": "dimension"
+        },
+        "025": {
+          "$value": "-2px",
+          "$type": "dimension"
+        },
+        "050": {
+          "$value": "-4px",
+          "$type": "dimension"
+        },
+        "075": {
+          "$value": "-6px",
+          "$type": "dimension"
+        }
+      }
+    },
+    "border": {
+      "width": {
+        "small": {
+          "$value": "1px",
+          "$type": "borderWidth"
+        },
+        "medium": {
+          "$value": "2px",
+          "$type": "borderWidth"
+        },
+        "large": {
+          "$value": "4px",
+          "$type": "borderWidth"
+        }
+      },
+      "radius": {
+        "small": {
+          "$value": "3px",
+          "$type": "borderRadius"
+        },
+        "medium": {
+          "$value": "5px",
+          "$type": "borderRadius"
+        },
+        "large": {
+          "$value": "7px",
+          "$type": "borderRadius"
+        },
+        "extra-large": {
+          "$value": "14px",
+          "$type": "borderRadius"
+        }
+      }
+    },
+    "font": {
+      "family": {
+        "sans-serif": {
+          "$value": "-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif",
+          "$type": "fontFamilies"
+        },
+        "monospaced": {
+          "$value": "'SFMono-Medium', 'SF Mono', 'Segoe UI Mono', 'Roboto Mono', 'Ubuntu Mono', Menlo, Consolas, Courier, monospace",
+          "$type": "fontFamilies"
+        }
+      },
+      "weight": {
+        "light": {
+          "$value": "300",
+          "$type": "fontWeights"
+        },
+        "normal": {
+          "$value": "400",
+          "$type": "fontWeights"
+        },
+        "medium": {
+          "$value": "500",
+          "$type": "fontWeights"
+        },
+        "semibold": {
+          "$value": "600",
+          "$type": "fontWeights"
+        },
+        "bold": {
+          "$value": "700",
+          "$type": "fontWeights"
+        }
+      },
+      "body": {
+        "small": {
+          "$value": "11px",
+          "$type": "fontSizes"
+        },
+        "base": {
+          "$value": "14px",
+          "$type": "fontSizes"
+        },
+        "large": {
+          "$value": "16px",
+          "$type": "fontSizes"
+        }
+      },
+      "heading": {
+        "xxxsmall": {
+          "$value": "11px",
+          "$type": "fontSizes"
+        },
+        "xxsmall": {
+          "$value": "12px",
+          "$type": "fontSizes"
+        },
+        "xsmall": {
+          "$value": "14px",
+          "$type": "fontSizes"
+        },
+        "small": {
+          "$value": "16px",
+          "$type": "fontSizes"
+        },
+        "medium": {
+          "$value": "20px",
+          "$type": "fontSizes"
+        },
+        "large": {
+          "$value": "24px",
+          "$type": "fontSizes"
+        },
+        "xlarge": {
+          "$value": "29px",
+          "$type": "fontSizes"
+        },
+        "xxlarge": {
+          "$value": "35px",
+          "$type": "fontSizes"
+        }
+      },
+      "lineheight": {
+        "xsmall": {
+          "$value": "16px",
+          "$type": "lineHeights"
+        },
+        "small": {
+          "$value": "20px",
+          "$type": "lineHeights"
+        },
+        "medium": {
+          "$value": "24px",
+          "$type": "lineHeights"
+        },
+        "large": {
+          "$value": "28px",
+          "$type": "lineHeights"
+        },
+        "xlarge": {
+          "$value": "32px",
+          "$type": "lineHeights"
+        },
+        "xxlarge": {
+          "$value": "40px",
+          "$type": "lineHeights"
+        }
+      },
+      "letterspacing": {
+        "normal": {
+          "$value": "0",
+          "$type": "dimension"
+        },
+        "tight": {
+          "$value": "-0.25px",
+          "$type": "dimension"
+        },
+        "tighter": {
+          "$value": "-0.5px",
+          "$type": "dimension"
+        }
+      }
+    }
+  },
+  "light": {
+    "color": {
+      "text": {
+        "default": {
+          "$value": "{color.neutral.1000}",
+          "$type": "color",
+          "$description": "Gebruik voor primaire tekst zoals body copy, sentence case headers, en buttons in het light theme."
+        },
+        "inverse": {
+          "$value": "{color.neutral.0}",
+          "$type": "color",
+          "$description": "Gebruik voor tekst op contrasterende achtergronden in het light theme."
+        },
+        "disabled": {
+          "$value": "{color.neutral.alpha.500}",
+          "$type": "color",
+          "$description": "Gebruik voor tekst in een disabled state in het light theme."
+        },
+        "selected": {
+          "$value": "{color.ugent-blue.700}",
+          "$type": "color",
+          "$description": "Gebruik voor tekst in selected of opened states zoals tabs en dropdown buttons in het light theme."
+        },
+        "brand": {
+          "$value": "{color.ugent-blue.800}",
+          "$type": "color",
+          "$description": "Gebruik voor tekst die de UGent merkidentiteit benadrukt in het light theme."
+        },
+        "danger": {
+          "$value": "{color.tomato.400}",
+          "$type": "color",
+          "$description": "Gebruik voor tekst bij het signaleren van waarschuwingen of fouten, zoals input field errors in het light theme."
+        },
+        "warning": {
+          "$value": "{color.ugent-yellow.400}",
+          "$type": "color",
+          "$description": "Gebruik voor waarschuwing- en notificatietekst in het light theme."
+        },
+        "succes": {
+          "$value": "{color.mint.400}",
+          "$type": "color",
+          "$description": "Gebruik voor succes- en bevestigingtekst in het light theme."
+        },
+        "information": {
+          "$value": "{color.electric-blue.400}",
+          "$type": "color",
+          "$description": "Gebruik voor informatieve tekst of om aan te geven dat iets in uitvoering is in het light theme."
+        },
+        "subtle": {
+          "$value": "{color.neutral.800}",
+          "$type": "color",
+          "$description": "Gebruik voor secundaire tekst zoals navigatie, button links, input field labels en all caps subheadings in het light theme."
+        },
+        "subtlest": {
+          "$value": "{color.neutral.700}",
+          "$type": "color",
+          "$description": "Gebruik voor tertiaire tekst zoals meta-data, breadcrumbs, input field placeholder en helper text in het light theme."
+        }
+      },
+      "link": {
+        "default": {
+          "$value": "{color.ugent-blue.800}",
+          "$type": "color",
+          "$description": "Gebruik voor links in een default state in het light theme. Voeg een underline toe voor hovered states."
+        },
+        "pressed": {
+          "$value": "{color.ugent-blue.900}",
+          "$type": "color",
+          "$description": "Gebruik voor links in een pressed state in het light theme."
+        },
+        "visited": {
+          "$value": "{color.ugent-blue.600}",
+          "$type": "color",
+          "$description": "Gebruik voor links in een visited state in het light theme."
+        }
+      },
+      "border": {
+        "default": {
+          "$value": "{color.neutral.alpha.300}",
+          "$type": "color",
+          "$description": "Gebruik voor UI-elementen visueel te groeperen of te scheiden in het light theme."
+        },
+        "inverse": {
+          "$value": "{color.neutral.0}",
+          "$type": "color"
+        },
+        "disabled": {
+          "$value": "{color.neutral.alpha.500}",
+          "$type": "color"
+        },
+        "selected": {
+          "$value": "{color.ugent-blue.700}",
+          "$type": "color"
+        },
+        "brand": {
+          "$value": "{color.ugent-blue.800}",
+          "$type": "color"
+        },
+        "danger": {
+          "$value": "{color.tomato.400}",
+          "$type": "color"
+        },
+        "warning": {
+          "$value": "{color.ugent-yellow.400}",
+          "$type": "color"
+        },
+        "succes": {
+          "$value": "{color.mint.400}",
+          "$type": "color"
+        },
+        "information": {
+          "$value": "{color.electric-blue.400}",
+          "$type": "color"
+        },
+        "input": {
+          "$value": "{color.neutral.500}",
+          "$type": "color"
+        }
+      },
+      "background": {
+        "brand": {
+          "default": {
+            "$value": "{color.ugent-blue.800}",
+            "$type": "color",
+            "$description": "Gebruik voor achtergrond die de UGent merkidentiteit benadrukt in het light theme."
+          },
+          "hovered": {
+            "$value": "{color.ugent-blue.900}",
+            "$type": "color"
+          },
+          "pressed": {
+            "$value": "{color.ugent-blue.1000}",
+            "$type": "color"
+          }
+        },
+        "danger": {
+          "default": {
+            "$value": "{color.tomato.400}",
+            "$type": "color",
+            "$description": "Gebruik voor achtergronden die kritieke informatie communiceren, zoals in foutmeldingssecties in het light theme."
+          },
+          "hovered": {
+            "$value": "{color.tomato.500}",
+            "$type": "color"
+          },
+          "pressed": {
+            "$value": "{color.tomato.600}",
+            "$type": "color"
+          }
+        },
+        "warning": {
+          "default": {
+            "$value": "{color.ugent-yellow.400}",
+            "$type": "color",
+            "$description": "Gebruik voor achtergronden die voorzichtigheid communiceren, zoals in waarschuwingssecties in het light theme."
+          },
+          "hovered": {
+            "$value": "{color.ugent-yellow.500}",
+            "$type": "color"
+          },
+          "pressed": {
+            "$value": "{color.ugent-yellow.600}",
+            "$type": "color"
+          }
+        },
+        "succes": {
+          "default": {
+            "$value": "{color.mint.400}",
+            "$type": "color",
+            "$description": "Gebruik voor succes- en bevestiging achtergrond in het light theme."
+          },
+          "hovered": {
+            "$value": "{color.mint.500}",
+            "$type": "color"
+          },
+          "pressed": {
+            "$value": "{color.mint.600}",
+            "$type": "color"
+          }
+        },
+        "information": {
+          "default": {
+            "$value": "{color.electric-blue.400}",
+            "$type": "color",
+            "$description": "Gebruik voor informatieve achtergrond of om aan te geven dat iets in uitvoering is in het light theme."
+          },
+          "hovered": {
+            "$value": "{color.electric-blue.500}",
+            "$type": "color"
+          },
+          "pressed": {
+            "$value": "{color.electric-blue.600}",
+            "$type": "color"
+          }
+        },
+        "neutral": {
+          "default": {
+            "$value": "{color.neutral.300}",
+            "$type": "color",
+            "$description": "Gebruik voor neutrale achtergrond wanneer er geen betekenis aan de kleur is verbonden."
+          },
+          "hovered": {
+            "$value": "{color.neutral.400}",
+            "$type": "color"
+          },
+          "pressed": {
+            "$value": "{color.neutral.500}",
+            "$type": "color"
+          }
+        },
+        "input": {
+          "default": {
+            "$value": "{color.neutral.0}",
+            "$type": "color",
+            "$description": "Gebruik als achtergrond voor form UI-elementen zoals textfields, checkboxes, en radio buttons"
+          },
+          "hovered": {
+            "$value": "{color.neutral.100}",
+            "$type": "color"
+          },
+          "pressed": {
+            "$value": "{color.neutral.0}",
+            "$type": "color"
+          }
+        },
+        "disabled": {
+          "$value": "{color.neutral.alpha.100}",
+          "$type": "color",
+          "$description": "Gebruik als achtergrond voor UI-elementen in een disabled state"
+        }
+      }
+    },
+    "elevation": {
+      "surface": {
+        "basic": {
+          "default": {
+            "$value": "{color.neutral.0}",
+            "$type": "color",
+            "$description": "Gebruik als de primaire achtergrond voor de UI in het light theme."
+          },
+          "hovered": {
+            "$value": "{color.neutral.200}",
+            "$type": "color",
+            "$description": "Gebruik als de primaire achtergrond in een hovered state in de UI in het light theme."
+          },
+          "pressed": {
+            "$value": "{color.neutral.300}",
+            "$type": "color",
+            "$description": "Gebruik als de primaire achtergrond in een pressed state in de UI in het light theme."
+          }
+        },
+        "raised": {
+          "default": {
+            "$value": "{color.neutral.0}",
+            "$type": "color"
+          },
+          "hovered": {
+            "$value": "{color.neutral.200}",
+            "$type": "color"
+          },
+          "pressed": {
+            "$value": "{color.neutral.300}",
+            "$type": "color"
+          }
+        },
+        "overlay": {
+          "default": {
+            "$value": "{color.neutral.0}",
+            "$type": "color"
+          },
+          "hovered": {
+            "$value": "{color.neutral.200}",
+            "$type": "color"
+          },
+          "pressed": {
+            "$value": "{color.neutral.300}",
+            "$type": "color"
+          }
+        },
+        "sunken": {
+          "default": {
+            "$value": "{color.neutral.100}",
+            "$type": "color"
+          }
+        }
+      },
+      "shadow": {
+        "overflow": {
+          "$value": "0px 0px 8px rgba(9, 30, 66, 0.16),0px 0px 1px rgba(9, 30, 66, 0.12)",
+          "$type": "boxShadow"
+        },
+        "overlay": {
+          "$value": "0px 8px 12px rgba(9, 30, 66, 0.15),0px 0px 1px rgba(9, 30, 66, 0.31)",
+          "$type": "boxShadow"
+        },
+        "raised": {
+          "$value": "0px 1px 1px rgba(9, 30, 66, 0.25),0px 0px 1px rgba(9, 30, 66, 0.31)",
+          "$type": "boxShadow"
+        }
+      }
+    }
+  },
+  "dark": {
+    "color": {
+      "text": {
+        "default": {
+          "$value": "{color.neutral.dark.1000}",
+          "$type": "color",
+          "$description": "Gebruik voor primaire tekst zoals body copy, sentence case headers, en buttons in het dark theme."
+        },
+        "inverse": {
+          "$value": "{color.neutral.dark.100}",
+          "$type": "color",
+          "$description": "Gebruik voor tekst op contrasterende achtergronden in het dark theme."
+        },
+        "disabled": {
+          "$value": "{color.neutral.dark.alpha.500}",
+          "$type": "color",
+          "$description": "Gebruik voor tekst in een disabled state in het dark theme."
+        },
+        "selected": {
+          "$value": "{color.ugent-blue.400}",
+          "$type": "color",
+          "$description": "Gebruik voor tekst in selected of opened states zoals tabs en dropdown buttons in het dark theme."
+        },
+        "brand": {
+          "$value": "{color.ugent-blue.800}",
+          "$type": "color",
+          "$description": "Gebruik voor tekst die de UGent merkidentiteit benadrukt in het dark theme."
+        },
+        "danger": {
+          "$value": "{color.tomato.700}",
+          "$type": "color",
+          "$description": "Gebruik voor tekst bij het signaleren van waarschuwingen of fouten, zoals input field errors in het dark theme."
+        },
+        "warning": {
+          "$value": "{color.ugent-yellow.700}",
+          "$type": "color",
+          "$description": "Gebruik voor waarschuwing- en notificatietekst in het dark theme."
+        },
+        "succes": {
+          "$value": "{color.mint.700}",
+          "$type": "color",
+          "$description": "Gebruik voor succes- en bevestigingtekst in het dark theme."
+        },
+        "information": {
+          "$value": "{color.electric-blue.700}",
+          "$type": "color",
+          "$description": "Gebruik voor informatieve tekst of om aan te geven dat iets in uitvoering is in het dark theme."
+        },
+        "subtle": {
+          "$value": "{color.neutral.dark.800}",
+          "$type": "color",
+          "$description": "Gebruik voor secundaire tekst zoals navigatie, button links, input field labels en all caps subheadings in het dark theme."
+        },
+        "subtlest": {
+          "$value": "{color.neutral.dark.700}",
+          "$type": "color",
+          "$description": "Gebruik voor tertiaire tekst zoals meta-data, breadcrumbs, input field placeholder en helper text in het dark theme."
+        }
+      },
+      "link": {
+        "default": {
+          "$value": "{color.ugent-blue.300}",
+          "$type": "color",
+          "$description": "Gebruik voor links in een default state in het dark theme. Voeg een underline toe voor hovered states."
+        },
+        "pressed": {
+          "$value": "{color.ugent-blue.200}",
+          "$type": "color",
+          "$description": "Gebruik voor links in een pressed state in het dark theme."
+        },
+        "visited": {
+          "$value": "{color.ugent-blue.500}",
+          "$type": "color",
+          "$description": "Gebruik voor links in een visited state in het dark theme."
+        }
+      },
+      "border": {
+        "default": {
+          "$value": "{color.neutral.alpha.300}",
+          "$type": "color",
+          "$description": "Gebruik voor UI-elementen visueel te groeperen of te scheiden in het dark theme."
+        },
+        "inverse": {
+          "$value": "{color.neutral.dark.100}",
+          "$type": "color"
+        },
+        "disabled": {
+          "$value": "{color.neutral.dark.alpha.500}",
+          "$type": "color"
+        },
+        "selected": {
+          "$value": "{color.ugent-blue.400}",
+          "$type": "color"
+        },
+        "brand": {
+          "$value": "{color.ugent-blue.800}",
+          "$type": "color"
+        },
+        "danger": {
+          "$value": "{color.tomato.700}",
+          "$type": "color"
+        },
+        "warning": {
+          "$value": "{color.ugent-yellow.700}",
+          "$type": "color"
+        },
+        "succes": {
+          "$value": "{color.mint.700}",
+          "$type": "color"
+        },
+        "information": {
+          "$value": "{color.electric-blue.700}",
+          "$type": "color"
+        },
+        "input": {
+          "$value": "{color.neutral.dark.500}",
+          "$type": "color"
+        }
+      },
+      "background": {
+        "brand": {
+          "default": {
+            "$value": "{color.ugent-blue.800}",
+            "$type": "color",
+            "$description": "Gebruik voor achtergrond die de UGent merkidentiteit benadrukt in het dark theme."
+          },
+          "hovered": {
+            "$value": "{color.ugent-blue.700}",
+            "$type": "color"
+          },
+          "pressed": {
+            "$value": "{color.ugent-blue.600}",
+            "$type": "color"
+          }
+        },
+        "danger": {
+          "default": {
+            "$value": "{color.tomato.700}",
+            "$type": "color",
+            "$description": "Gebruik voor achtergronden die kritieke informatie communiceren, zoals in foutmeldingssecties in het dark theme."
+          },
+          "hovered": {
+            "$value": "{color.tomato.600}",
+            "$type": "color"
+          },
+          "pressed": {
+            "$value": "{color.tomato.500}",
+            "$type": "color"
+          }
+        },
+        "warning": {
+          "default": {
+            "$value": "{color.ugent-yellow.700}",
+            "$type": "color",
+            "$description": "Gebruik voor achtergronden die voorzichtigheid communiceren, zoals in waarschuwingssecties in het dark theme."
+          },
+          "hovered": {
+            "$value": "{color.ugent-yellow.600}",
+            "$type": "color"
+          },
+          "pressed": {
+            "$value": "{color.ugent-yellow.500}",
+            "$type": "color"
+          }
+        },
+        "succes": {
+          "default": {
+            "$value": "{color.mint.700}",
+            "$type": "color",
+            "$description": "Gebruik voor succes- en bevestiging achtergrond in het dark theme."
+          },
+          "hovered": {
+            "$value": "{color.mint.600}",
+            "$type": "color"
+          },
+          "pressed": {
+            "$value": "{color.mint.500}",
+            "$type": "color"
+          }
+        },
+        "information": {
+          "default": {
+            "$value": "{color.electric-blue.700}",
+            "$type": "color",
+            "$description": "Gebruik voor informatieve achtergrond of om aan te geven dat iets in uitvoering is in het light theme."
+          },
+          "hovered": {
+            "$value": "{color.electric-blue.600}",
+            "$type": "color"
+          },
+          "pressed": {
+            "$value": "{color.electric-blue.500}",
+            "$type": "color"
+          }
+        },
+        "neutral": {
+          "default": {
+            "$value": "{color.neutral.dark.400}",
+            "$type": "color",
+            "$description": "Gebruik voor neutrale achtergrond wanneer er geen betekenis aan de kleur is verbonden."
+          },
+          "hovered": {
+            "$value": "{color.neutral.dark.500}",
+            "$type": "color"
+          },
+          "pressed": {
+            "$value": "{color.neutral.dark.600}",
+            "$type": "color"
+          }
+        },
+        "input": {
+          "default": {
+            "$value": "{color.neutral.dark.200}",
+            "$type": "color",
+            "$description": "Gebruik als achtergrond voor form UI-elementen zoals textfields, checkboxes, en radio buttons."
+          },
+          "hovered": {
+            "$value": "{color.neutral.dark.300}",
+            "$type": "color"
+          },
+          "pressed": {
+            "$value": "{color.neutral.dark.400}",
+            "$type": "color"
+          }
+        },
+        "disabled": {
+          "$value": "{color.neutral.dark.alpha.100}",
+          "$type": "color",
+          "$description": "Gebruik als achtergrond voor UI-elementen in een disabled state"
+        }
+      }
+    },
+    "elevation": {
+      "surface": {
+        "basic": {
+          "default": {
+            "$value": "{color.neutral.dark.100}",
+            "$type": "color",
+            "$description": "Gebruik als de primaire achtergrond voor de UI in het dark theme."
+          },
+          "hovered": {
+            "$value": "{color.neutral.dark.200}",
+            "$type": "color",
+            "$description": "Gebruik als de primaire achtergrond in een hovered state in de UI in het dark theme."
+          },
+          "pressed": {
+            "$value": "{color.neutral.dark.300}",
+            "$type": "color",
+            "$description": "Gebruik als de primaire achtergrond in een pressed state in de UI in het dark theme."
+          }
+        },
+        "raised": {
+          "default": {
+            "$value": "{color.neutral.dark.100}",
+            "$type": "color"
+          },
+          "hovered": {
+            "$value": "{color.neutral.dark.200}",
+            "$type": "color"
+          },
+          "pressed": {
+            "$value": "{color.neutral.dark.300}",
+            "$type": "color"
+          }
+        },
+        "overlay": {
+          "default": {
+            "$value": "{color.neutral.dark.100}",
+            "$type": "color"
+          },
+          "hovered": {
+            "$value": "{color.neutral.dark.200}",
+            "$type": "color"
+          },
+          "pressed": {
+            "$value": "{color.neutral.dark.300}",
+            "$type": "color"
+          }
+        },
+        "sunken": {
+          "default": {
+            "$value": "{color.neutral.dark.0}",
+            "$type": "color"
+          }
+        }
+      },
+      "shadow": {
+        "overflow": {
+          "$value": "0px 0px 12px rgba(3, 4, 4, 0.56),0px 0px 1px rgba(3, 4, 4, 0.5)",
+          "$type": "boxShadow"
+        },
+        "overlay": {
+          "$value": "0px 0px 0px rgba(57, 66, 74, 1),0px 8px 12px rgba(3, 4, 4, 0.36),0px 0px 1px rgba(3, 4, 4, 0.5)",
+          "$type": "boxShadow"
+        },
+        "raised": {
+          "$value": "0px 0px 0px rgba(0, 0, 0, 0),0px 1px 1px rgba(3, 4, 4, 0.5),0px 0px 1px rgba(3, 4, 4, 0.5)",
+          "$type": "boxShadow"
+        }
+      }
+    }
+  },
+  "typography": {
+    "Headings": {
+      "h900": {
+        "$value": {
+          "fontFamily": "{font.family.sans-serif}",
+          "fontWeight": "{font.weight.medium}",
+          "fontSize": "{font.heading.xxlarge}",
+          "lineHeight": "{font.lineheight.xxlarge}",
+          "letterSpacing": "{font.letterspacing.tighter}"
+        },
+        "$type": "typography",
+        "$description": "h900 style"
+      },
+      "h800": {
+        "$value": {
+          "fontFamily": "{font.family.sans-serif}",
+          "fontWeight": "{font.weight.semibold}",
+          "fontSize": "{font.heading.xlarge}",
+          "lineHeight": "{font.lineheight.xlarge}",
+          "letterSpacing": "{font.letterspacing.tighter}"
+        },
+        "$type": "typography",
+        "$description": "h800 style"
+      },
+      "h700": {
+        "$value": {
+          "fontFamily": "{font.family.sans-serif}",
+          "fontWeight": "{font.weight.medium}",
+          "fontSize": "{font.heading.large}",
+          "lineHeight": "{font.lineheight.large}",
+          "letterSpacing": "{font.letterspacing.tighter}"
+        },
+        "$type": "typography",
+        "$description": "h700 style"
+      },
+      "h600": {
+        "$value": {
+          "fontFamily": "{font.family.sans-serif}",
+          "fontWeight": "{font.weight.medium}",
+          "fontSize": "{font.heading.medium}",
+          "lineHeight": "{font.lineheight.medium}",
+          "letterSpacing": "{font.letterspacing.tighter}"
+        },
+        "$type": "typography",
+        "$description": "h600 style"
+      },
+      "h500": {
+        "$value": {
+          "fontFamily": "{font.family.sans-serif}",
+          "fontWeight": "{font.weight.semibold}",
+          "fontSize": "{font.heading.small}",
+          "lineHeight": "{font.lineheight.small}",
+          "letterSpacing": "{font.letterspacing.tight}"
+        },
+        "$type": "typography",
+        "$description": "h500 style"
+      },
+      "h400": {
+        "$value": {
+          "fontFamily": "{font.family.sans-serif}",
+          "fontWeight": "{font.weight.semibold}",
+          "fontSize": "{font.heading.xsmall}",
+          "lineHeight": "{font.lineheight.xsmall}",
+          "letterSpacing": "{font.letterspacing.tight}"
+        },
+        "$type": "typography",
+        "$description": "h400 style"
+      },
+      "h300": {
+        "$value": {
+          "fontFamily": "{font.family.sans-serif}",
+          "fontWeight": "{font.weight.semibold}",
+          "fontSize": "{font.heading.xxsmall}",
+          "lineHeight": "{font.lineheight.xsmall}",
+          "letterSpacing": "{font.letterspacing.normal}"
+        },
+        "$type": "typography",
+        "$description": "h300 style"
+      },
+      "h200": {
+        "$value": {
+          "fontFamily": "{font.family.sans-serif}",
+          "fontWeight": "{font.weight.semibold}",
+          "fontSize": "{font.heading.xxsmall}",
+          "lineHeight": "{font.lineheight.xsmall}",
+          "letterSpacing": "{font.letterspacing.normal}"
+        },
+        "$type": "typography",
+        "$description": "h200 style"
+      },
+      "h100": {
+        "$value": {
+          "fontFamily": "{font.family.sans-serif}",
+          "fontWeight": "{font.weight.semibold}",
+          "fontSize": "{font.heading.xxxsmall}",
+          "lineHeight": "{font.lineheight.xsmall}",
+          "letterSpacing": "{font.letterspacing.normal}"
+        },
+        "$type": "typography",
+        "$description": "h100 style"
+      }
+    }
+  },
+  "$themes": [
+    {
+      "id": "b2e2be6ff5c7761939b69817eabbbe2f88f5ab91",
+      "name": "core",
+      "selectedTokenSets": {
+        "core": "enabled"
+      },
+      "$figmaStyleReferences": {},
+      "$figmaVariableReferences": {},
+      "$figmaCollectionId": "VariableCollectionId:10:349",
+      "$figmaModeId": "10:9"
+    },
+    {
+      "id": "6a148de1a5f4c2ef8bfd53876881c3cb5e3b2baa",
+      "name": "light",
+      "selectedTokenSets": {
+        "core": "source",
+        "light": "enabled"
+      },
+      "$figmaStyleReferences": {},
+      "$figmaVariableReferences": {},
+      "$figmaCollectionId": "VariableCollectionId:10:456",
+      "$figmaModeId": "10:10"
+    },
+    {
+      "id": "523c952e5224ccc914212943c7ae93e11298ef35",
+      "name": "dark",
+      "selectedTokenSets": {
+        "core": "source",
+        "dark": "enabled"
+      },
+      "$figmaStyleReferences": {},
+      "$figmaVariableReferences": {},
+      "$figmaCollectionId": "VariableCollectionId:10:467",
+      "$figmaModeId": "10:11"
+    }
+  ],
+  "$metadata": {
+    "tokenSetOrder": [
+      "core",
+      "light",
+      "dark",
+      "typography"
+    ]
+  }
+}
